@@ -1,0 +1,11 @@
+.review{
+    display:flex;
+    align-items:center;
+    background-color: #031725;
+    border: 1px #031725;
+    border-radius:6px;
+    padding:20px;
+    margin-bottom:15px;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+}
